@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#folders
+Champsim/results_*
+Champsim/dpc3_traces/
