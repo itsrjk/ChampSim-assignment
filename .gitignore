@@ -32,16 +32,7 @@
 *.app
 
 #folders
-ChampSim/results_10M/603.bwaves_s-5359B.champsimtrace.xz-bimodal-no-sbuffer-no-no-lru-1core.txt
-ChampSim/results_10M/654.roms_s-1021B.champsimtrace.xz-bimodal-no-next_line-no-no-lru-1core.txt
-ChampSim/results_10M/654.roms_s-1021B.champsimtrace.xz-bimodal-no-sbuffer-no-no-lru-1core.txt
-ChampSim/results_200M/603.bwaves_s-5359B.champsimtrace.xz-bimodal-no-next_line-no-no-lru-1core.txt
-ChampSim/results_200M/603.bwaves_s-5359B.champsimtrace.xz-bimodal-no-no-no-no-fifo-1core.txt
-ChampSim/results_200M/603.bwaves_s-5359B.champsimtrace.xz-bimodal-no-no-no-no-lru-1core.txt
-ChampSim/results_200M/603.bwaves_s-5359B.champsimtrace.xz-bimodal-no-sbuffer-no-no-lru-1core.txt
-ChampSim/results_200M/654.roms_s-1021B.champsimtrace.xz-bimodal-no-no-no-no-fifo-1core.txt
-ChampSim/results_200M/654.roms_s-1021B.champsimtrace.xz-bimodal-no-sbuffer-no-no-lru-1core.txt
-ChampSim/dpc3_traces/603.bwaves_s-5359B.champsimtrace.xz
-ChampSim/dpc3_traces/654.roms_s-1021B.champsimtrace.xz
+ChampSim/results_10M/*
+ChampSim/results_200M/*
+ChampSim/dpc3_traces/*
 ChampSim/.vscode/settings.json
-ChampSim/testing/*
