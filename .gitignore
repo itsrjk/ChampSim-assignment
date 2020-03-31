@@ -44,3 +44,4 @@ ChampSim/results_200M/654.roms_s-1021B.champsimtrace.xz-bimodal-no-sbuffer-no-no
 ChampSim/dpc3_traces/603.bwaves_s-5359B.champsimtrace.xz
 ChampSim/dpc3_traces/654.roms_s-1021B.champsimtrace.xz
 ChampSim/.vscode/settings.json
+ChampSim/testing/*
