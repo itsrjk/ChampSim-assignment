@@ -8,6 +8,7 @@ void CACHE::l1d_prefetcher_initialize()
 void CACHE::l1d_prefetcher_operate(uint64_t addr, uint64_t ip, uint8_t cache_hit, uint8_t type)
 {
     uint64_t pf_addr = ((addr>>LOG2_BLOCK_SIZE)+1) << LOG2_BLOCK_SIZE;
+    cout << addr << " : " <<pf_addr << endl;
 
     DP ( if (warmup_complete[cpu]) {
     cout << "[" << NAME << "] " << __func__ << hex << " base_cl: " << (addr>>LOG2_BLOCK_SIZE) << "pf_addr : "<< pf_addr;
